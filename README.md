@@ -21,7 +21,7 @@ I have experience processing RNA-seq data using industry-standard tools:
 ---
 
 ### 🔭 Current Projects
-* **Glioblastoma Neoantigen Pipeline:** A complete workflow to identify and rank neoantigens from RNA-seq data for personalized vaccine design. [View Project](./)
+* **Glioblastoma Neoantigen Pipeline:** A complete workflow to identify and rank neoantigens from RNA-seq data for personalized vaccine design. [View Project](https://github.com/Nurulamin6191/glioblastoma-neoantigen-pipeline)
 
 ### 📫 Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/nurulamin-shaikh/)
