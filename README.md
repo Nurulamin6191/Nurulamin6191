@@ -26,4 +26,4 @@ I have experience processing RNA-seq data using industry-standard tools:
 ### 📫 Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/nurulamin-shaikh/)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nurulamin6191&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nurulamin6191&show_icons=true&theme=default)
