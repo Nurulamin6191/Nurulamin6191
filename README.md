@@ -111,17 +111,6 @@ My research focuses on understanding how **oncolytic Immuno virotherapy (OIVT)**
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nurulamin6191&show_icons=true&theme=default&hide_border=false" alt="Nurulamin's GitHub Stats" height="155"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurulamin6191&layout=compact&theme=default&hide_border=false" alt="Top Languages" height="155"/>
-
-</div>
-
----
-
 ## 📬 Get in Touch
 
 * **Email:** [nurulamin6191@gmail.com](mailto:nurulamin6191@gmail.com)
