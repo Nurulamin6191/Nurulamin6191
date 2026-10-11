@@ -8,7 +8,7 @@
 [![CSIR--UGC NET](https://img.shields.io/badge/CSIR--NET%20JRF-96.89%20Percentile-0052cc?style=for-the-badge)](https://csirnet.nta.ac.in)
 
 **Junior Research Fellow — Computational Biology | Immuno-Oncology | Oncolytic Immuno Virotherapy**  
-*Advanced Centre for Treatment, Research and Education in Cancer (ACTREC), Tata Memorial Centre, Navi Mumbai, India*
+*Advanced Centre for Treatment, Research and Education in Cancer (ACTREC), Tata Memorial Centre, India*
 
 ---
 
