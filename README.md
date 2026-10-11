@@ -98,12 +98,8 @@ My research focuses on understanding how **oncolytic Immuno virotherapy (OIVT)**
 
 ---
 
-## 🎓 Education & Honors
+## 🎓 Honors
 
-* **Master of Science (M.Sc.) in Biotechnology** (2021 – 2023)  
-  *ISBM University* — Score: **64.87%** (Dissertation on Microbial Process Optimization)
-* **Bachelor of Science (B.Sc.) in Biotechnology** (2018 – 2021)  
-  *VES College of Arts, Science and Commerce, University of Mumbai* — CGPA: **8.92 / 10.00 (Distinction)**
 * **CSIR-UGC NET (Life Sciences):** Qualified for **Junior Research Fellowship (JRF) & Ph.D.** with **96.89 Percentile** (CSIR-NET 2026 / June 2025).
 * **JGEEBILS:** Qualified Joint Graduate Entrance Examination for Biology and Interdisciplinary Life Sciences.
 * **Cleanroom / GMP Standards:** Completed institutional training in Biowaste Management and Green Room / Cleanroom Entry–Exit Protocols.
