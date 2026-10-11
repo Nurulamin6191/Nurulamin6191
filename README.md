@@ -95,7 +95,7 @@ My research focuses on understanding how **oncolytic Immuno virotherapy (OIVT)**
 
 ## 🎓 Honors
 
-* **CSIR-UGC NET (Life Sciences):** Qualified for **Junior Research Fellowship (JRF) & Ph.D.** with **96.89 Percentile** (CSIR-NET 2026 / June 2025).
+* **CSIR-UGC NET (Life Sciences):** Qualified (CSIR-NET 2026 / June 2025).
 * **JGEEBILS:** Qualified Joint Graduate Entrance Examination for Biology and Interdisciplinary Life Sciences.
 * **Cleanroom / GMP Standards:** Completed institutional training in Biowaste Management and Green Room / Cleanroom Entry–Exit Protocols.
 * **AI/ML Training:** Hands-on Workshop on AI, Machine Learning & Generative AI in Oncology, Department of Digital and Computational Oncology, ACTREC, Tata Memorial Centre (2026).
