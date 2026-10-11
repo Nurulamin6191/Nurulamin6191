@@ -61,8 +61,8 @@ My research focuses on understanding how **oncolytic Immuno virotherapy (OIVT)**
 * **Overview:** Investigated therapeutic resistance and immune cell exclusion in Head and Neck Squamous Cell Carcinoma (HNSCC) by modeling how oncolytic viral exposure primes the tumor microenvironment for cellular effectors.
 * **Methodology:**
   * Integrated single-cell transcriptomics (**23 samples; deep learning-based scVI**) with bulk RNA-seq cohorts (**TCGA-HNSC; 564 samples**).
-  * Performed differential gene expression (**DESeq2**) combined with Weighted Gene Co-expression Network Analysis (**WGCNA**) and **Lasso regression** to identify intersecting biomarker candidates (`CXCL10`, `CXCL11`, `ISG15`, `AIM2`, `IFI6`, `BST2`).
-  * Mapped protein-protein interaction networks (**STRING DB**) and conducted computational immune deconvolution to evaluate chemokine signaling (`CXCL9/10/11`), antigen presentation machinery, and interferon response signatures.
+  * Performed differential gene expression (**DESeq2**) combined with Weighted Gene Co-expression Network Analysis (**WGCNA**) and **Lasso regression** to identify candidate gene regulatory modules and immune signatures associated with viral susceptibility.
+  * Mapped protein-protein interaction networks (**STRING DB**) and conducted computational immune deconvolution to evaluate chemokine-mediated lymphocyte recruitment, antigen presentation machinery, and interferon response signatures.
   * Automated data processing on PBS-scheduled High-Performance Computing (HPC) clusters.
 
 ### 2. In Silico Identification of Neoantigens for Personalised Immunotherapy in Glioblastoma
