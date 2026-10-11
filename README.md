@@ -22,8 +22,7 @@ My research focuses on understanding how **oncolytic Immuno virotherapy (OIVT)**
 
 - 🔭 **Current Focus:** Target discovery and immune microenvironment remodeling for oncolytic Immuno virotherapy platforms.
 - 🧪 **Research Background:** Both computational genomics (NGS, variant calling, neoantigen prediction) and foundational biotechnology laboratory training (fermentation optimization, microbial bioprocessing).
-- 🏆 **National Qualifications:** Qualified **CSIR-UGC NET (Life Sciences)** with **96.89 Percentile** (Junior Research Fellowship & Ph.D. eligibility); qualified **JGEEBILS**.
-- 💬 **Ask me about:** Single-Cell RNA-seq (scVI), bulk RNA-seq workflows, neoantigen prediction pipelines, WGCNA, Bash/Python automation on PBS HPC clusters.
+- 🏆 **National Qualifications:** Qualified **CSIR-UGC NET (Life Sciences)** with **96.89 Percentile**; qualified **JGEEBILS**.
 
 ---
 
