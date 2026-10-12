@@ -1,114 +1,129 @@
 # Nurulamin Shaikh
 
-<div align="center">
+<p align="left">
+  <a href="https://www.linkedin.com/in/nurulamin-shaikh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nurulamin6191@gmail.com"><img src="https://img.shields.io/badge/Email-nurulamin6191@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Nurulamin6191"><img src="https://img.shields.io/badge/GitHub-Nurulamin6191-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/CSIR--UGC%20NET-JRF%2096.89%25ile-0052cc?style=flat-square" alt="CSIR-NET JRF" />
+  <img src="https://img.shields.io/badge/Location-Navi%20Mumbai%2C%20India-blue?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurulamin-shaikh/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurulamin6191@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nurulamin6191)
-[![CSIR--UGC NET](https://img.shields.io/badge/CSIR--NET%20JRF-96.89%20Percentile-0052cc?style=for-the-badge)](https://csirnet.nta.ac.in)
-
-**Junior Research Fellow — Computational Biology | Immuno-Oncology | Oncolytic Immuno Virotherapy**  
-*Advanced Centre for Treatment, Research and Education in Cancer (ACTREC), Tata Memorial Centre, India*
-
----
-
-</div>
-
-## 🧬 About Me
-
-I am a **Junior Research Fellow** working at the intersection of **computational genomics**, **systems biology**, and **translational cancer therapeutics** under **Dr. Albeena Nisar** at **ACTREC, Tata Memorial Centre**.
-
-My research focuses on understanding how **oncolytic Immuno virotherapy (OIVT)** remodels the **tumor immune microenvironment (TME)** in solid malignancies. I develop and deploy automated, reproducible computational pipelines integrating **single-cell transcriptomics (scRNA-seq)**, **bulk RNA-seq**, **co-expression network topology (WGCNA)**, and **immuno-informatics** to discover therapeutic targets and biomarkers of viral susceptibility.
-
-- 🔭 **Current Focus:** Target discovery and immune microenvironment remodeling for oncolytic Immuno virotherapy platforms.
-- 🧪 **Research Background:** Both computational genomics (NGS, variant calling, neoantigen prediction) and foundational biotechnology laboratory training (fermentation optimization, microbial bioprocessing).
-- 🏆 **National Qualifications:** Qualified **CSIR-UGC NET (Life Sciences)** with **96.89 Percentile**; qualified **JGEEBILS**.
+> **Junior Research Fellow | Computational Biology & Immuno-Genomics**  
+> *Laboratory of Dr. Albeena Nisar | Advanced Centre for Treatment, Research and Education in Cancer (ACTREC), Tata Memorial Centre*
 
 ---
 
-## 🔬 Research Interests
+### 🧬 About Me
 
-- **Oncolytic Immuno Virotherapy (OIVT):** Dissecting molecular mechanisms of viral-mediated tumor lysis and immune stimulation.
-- **Tumor Immune Microenvironment (TME) Remodeling:** Tracking chemokine induction, interferon signaling pathways, and immune effector recruitment in solid tumors.
-- **Single-Cell & Bulk Multi-Omics Integration:** Uncovering cell-type specific expression states, gene co-expression modules, and biomarkers of viral susceptibility.
-- **Personalised Neoantigen Discovery:** Constructing end-to-end computational pipelines for HLA typing, somatic variant calling, and high-affinity peptide-MHC binding predictions.
-- **Reproducible HPC Workflows:** Building robust, scalable Linux shell scripts and Python/R workflows for high-throughput sequencing clusters.
+I am a **Computational Biologist** and **Junior Research Fellow** at **ACTREC, Tata Memorial Centre**, working at the interface of **computational genomics**, **systems biology**, and **translational cancer therapeutics**. 
+
+My core research focuses on understanding how **oncolytic Immuno virotherapy (OIVT)** remodels the **tumor immune microenvironment (TME)** in solid malignancies. I develop and deploy automated, reproducible computational pipelines integrating **single-cell transcriptomics (scRNA-seq)**, **bulk RNA-seq**, **co-expression network topology (WGCNA)**, and **immuno-informatics** to discover therapeutic targets and biomarkers of viral susceptibility.
+
+* 🔬 **Current Research:** Systems biology target discovery and tumor immune microenvironment remodeling for oncolytic Immuno virotherapy platforms.
+* 🧪 **Dual Training:** Bilingual research background spanning computational genomics (NGS, variant calling, neoepitope prediction) and wet-lab biotechnology (microbial bioprocessing, OFAT fermentation optimization, cleanroom GMP protocols).
+* 🏆 **Academic Honors:** Qualified **CSIR-UGC NET (Life Sciences)** with **96.89 Percentile** for Junior Research Fellowship (JRF) & Ph.D. admissions; qualified **JGEEBILS**.
+* ⚡ **Open To:** Interdisciplinary collaborations on single-cell genomics, translational immuno-oncology, and viral therapeutic target discovery.
 
 ---
 
-## 🛠️ Technical Skills
+### 🔬 Core Research Domains
 
-<div align="center">
+```
+├── Oncolytic Immuno Virotherapy (OIVT) ─── Viral tropism, immune priming & pro-inflammatory remodeling
+├── Single-Cell & Bulk Transcriptomics ──── scVI deep generative models, DESeq2 & WGCNA co-expression
+├── Personalised Immuno-Genomics ────────── Somatic variant calling, HLA-I typing & neoantigen discovery
+└── Structural Biology & Biophysics ─────── Macromolecular modeling, AlphaFold & protein interaction networks
+```
 
-| Domain | Technologies & Frameworks |
+---
+
+### 🛠️ Technical Stack & Workflow Architecture
+
+| Workflow Phase | Frameworks & Tools |
 | :--- | :--- |
-| **Computational Genomics & NGS** | `Single-Cell RNA-seq (scVI, Seurat, Scanpy)` `Bulk RNA-seq (DESeq2)` `WGCNA` `Computational Immune Deconvolution` `STAR Aligner` `FastQC` `Trim Galore` |
-| **Immuno-informatics & Variant Calling** | `Somatic Variant Calling (GATK HaplotypeCaller, FreeBayes)` `Variant Annotation (SnpEff, Ensembl VEP)` `HLA Typing (OptiType)` `Neoantigen Prediction (MHCflurry)` |
-| **Structural Biology & Networks** | `AlphaFold` `UCSF ChimeraX` `GROMACS` `Amber` `STRING PPI Networks` |
-| **AI, Machine Learning & Data Science** | `Classical Machine Learning (Scikit-Learn)` `Lasso Penalized Regression` `Generative AI & Local LLMs` `NumPy` `Pandas` `SciPy` `Matplotlib` `Seaborn` |
-| **Languages & Infrastructure** | `Python` `R Programming` `Bash / Linux Shell Scripting` `PBS Torque HPC Scheduler` `Git & GitHub` `Docker` `Ubuntu Linux` |
-| **Experimental Biotechnology** | `Microbial Isolation & Culture` `Enzyme Activity Assays` `Process Optimization via One Factor at a Time (OFAT)` `GMP / Green Room Entry-Exit Protocols` `Biowaste Management` |
-
-</div>
-
----
-
-## 🚀 Key Research Projects & Repositories
-
-### 1. Systems Biology of Oncolytic Virus-Mediated Tumor Priming in HNSCC
-* **Institution:** ACTREC, Tata Memorial Centre | **Guide:** Dr. Albeena Nisar
-* **Overview:** Investigated therapeutic resistance and immune cell exclusion in Head and Neck Squamous Cell Carcinoma (HNSCC) by modeling how oncolytic viral exposure primes the tumor microenvironment for cellular effectors.
-
-### 2. In Silico Identification of Neoantigens for Personalised Immunotherapy in Glioblastoma
-* **Repository:** [Nurulamin6191/GBM-Personalized-NeoAntigen-Vaccine](https://github.com/Nurulamin6191/GBM-Personalized-NeoAntigen-Vaccine)
-* **Institution:** BioTecNika Info Labs (Remote) | **Mentor:** Dr. Elamathi Natrajan
-* **Overview:** Engineered an automated, end-to-end pipeline in Python and Bash on Ubuntu Linux to detect patient-specific immunogenic neoepitopes from high-throughput patient RNA-seq datasets (SRR30677899, SRR30677902).
-* **Methodology:**
-  * Pipeline orchestration: FastQC quality control and adapter trimming with **Trim Galore**.
-  * Splice-aware alignment against **GRCh38** reference genome using **STAR Aligner**.
-  * Somatic variant calling using **GATK HaplotypeCaller** and **FreeBayes**; variant functional consequence prediction via **SnpEff** and **Ensembl VEP**.
-  * Four-digit HLA class I allele typing with **OptiType** and peptide-MHC binding affinity prediction via **MHCflurry**.
-
-### 3. Bacterial Fermentation Process Optimization via OFAT
-* **Institution:** ISBM University (M.Sc. Dissertation Project, 2022 – 2023)
-* **Overview:** Isolated and screened cellulolytic bacterial strains (*Bacillus subtilis* isolate C10) from soil environments using CMC agar and Congo Red assay.
-* **Methodology:**
-  * Systematically optimized fermentation conditions (pH, temperature, substrate concentration) using **One Factor at a Time (OFAT)** methodology.
-  * Achieved a **10% enhancement** in cellulase enzyme yield for industrial bioprocessing applications.
+| **Single-Cell & Spatial Omics** | `scVI` • `Scanpy` • `Seurat` • `Single-Cell RNA-seq (23-sample integration)` |
+| **Transcriptomics & Systems Biology** | `DESeq2` • `WGCNA` • `Computational Immune Deconvolution` • `TCGA-HNSC Multi-Omics` |
+| **NGS & Somatic Variant Calling** | `STAR Aligner` • `FastQC` • `Trim Galore` • `GATK HaplotypeCaller` • `FreeBayes` • `Ensembl VEP` • `SnpEff` |
+| **Immuno-Informatics** | `OptiType (4-digit HLA Class I Typing)` • `MHCflurry (Peptide-MHC Binding Affinity)` |
+| **Structural Biology & Biophysics** | `AlphaFold` • `UCSF ChimeraX` • `GROMACS` • `Amber` • `STRING PPI Networks` |
+| **Statistical Modeling & ML** | `Scikit-Learn` • `Penalized Lasso Regression` • `Generative AI & Local LLMs` • `NumPy` • `Pandas` • `SciPy` |
+| **Scientific Computing & HPC** | `Python` • `R Programming` • `Bash / Linux Shell Scripting` • `PBS Torque HPC Scheduler` • `Docker` • `Git / GitHub` |
+| **Laboratory & GMP Standards** | `Microbial Isolation & Culture` • `One Factor at a Time (OFAT)` • `Cleanroom / Green Room GMP Protocol` • `Biowaste Mgmt` |
 
 ---
 
-## 📑 Publications & Conference Presentations
+### 🚀 Featured Repositories & Scientific Projects
 
-- **Platform Poster:**  
+#### 1. [GBM-Personalized-NeoAntigen-Vaccine](https://github.com/Nurulamin6191/GBM-Personalized-NeoAntigen-Vaccine)
+> **Automated In Silico Pipeline for Neoantigen Identification in Glioblastoma**  
+> *Developed under Dr. Elamathi Natrajan (BioTecNika)*
+* Automated, reproducible end-to-end pipeline in Python and Bash on Ubuntu Linux for detecting patient-specific immunogenic neoepitopes from high-throughput patient RNA-seq cohorts (`SRR30677899`, `SRR30677902`).
+* Performs FastQC quality control, Trim Galore adapter trimming, splice-aware alignment via **STAR Aligner** (GRCh38), and cross-validated somatic variant calling with **GATK** and **FreeBayes**.
+* Integrates **OptiType** for 4-digit HLA class I allele typing and **MHCflurry** for high-affinity peptide-MHC binding predictions.
+* 🔗 [Explore Repository →](https://github.com/Nurulamin6191/GBM-Personalized-NeoAntigen-Vaccine)
+
+#### 2. Systems Biology of Oncolytic Virus Priming in Solid Tumors (HNSCC)
+> *ACTREC, Tata Memorial Centre | Laboratory of Dr. Albeena Nisar*
+* Dissected immune cell exclusion in Head and Neck Squamous Cell Carcinoma (HNSCC) by modeling how oncolytic viral exposure primes the tumor microenvironment for cellular effectors.
+* Integrated single-cell transcriptomics (**23 samples; deep learning via scVI**) with **TCGA-HNSC bulk RNA-seq cohorts (564 samples)**.
+* Applied **DESeq2**, **WGCNA**, and **Lasso regression** to isolate core gene regulatory modules and immune signatures linked to viral susceptibility.
+* Mapped **STRING DB** protein-protein interaction networks and computed immune cell deconvolution to assess chemokine recruitment, antigen presentation, and interferon pathways on PBS-scheduled HPC clusters.
+
+#### 3. [LabScribe-AI](https://github.com/Nurulamin6191/LabScribe-AI)
+> **Privacy-First Meeting & Scientific Companion for Biomedical Researchers**
+* Tailored for laboratory PIs, oncologists, geneticists, and research teams to document lab seminars, journal clubs, and scientific discussions with zero data leakage.
+* 🔗 [Explore Repository →](https://github.com/Nurulamin6191/LabScribe-AI)
+
+#### 4. Community Resources
+* [Bioinformatics_Tools](https://github.com/Nurulamin6191/Bioinformatics_Tools) — Curated collection of high-impact computational biology packages and resources.
+* [Learn_Bioinformatics](https://github.com/Nurulamin6191/Learn_Bioinformatics) — Structured curriculum and roadmap for self-directed computational biology training.
+
+---
+
+### 📑 Publications & Conference Presentations
+
+* **Platform Presentation:**  
   *“Development of India’s First Indigenous HSV-1-Based Oncolytic ImmunoVirotherapy Platform for Solid Tumours”*  
   **International Society for Cell & Gene Therapy (ISCT) Annual Meeting, 2026**  
-  *Authors:* Hiba Iqbal, Ahmad Adeel, Pritam Poonia, Tanay Rangankar, Ali Ahmed, **Nurulamin Shaikh**, Siddhartha Pandya, Abhilash Nair, Mehak Mehta, Shilpa Bhowmick, Sadhna Singh, Prasad Savkare, Gaurav Narula, Vainav Patel, Albeena Nisar.
+  *Co-authors:* Hiba Iqbal, Ahmad Adeel, Pritam Poonia, Tanay Rangankar, Ali Ahmed, **Nurulamin Shaikh**, Siddhartha Pandya, Abhilash Nair, Mehak Mehta, Shilpa Bhowmick, Sadhna Singh, Prasad Savkare, Gaurav Narula, Vainav Patel, Albeena Nisar.
 
-- **Systems Biology Poster:**  
+* **Systems Biology Presentation:**  
   *“Systems Biology Analysis of Oncolytic Virus-Mediated Tumor Priming for CAR-NK Therapy in Head and Neck Cancer”*  
   **International Society for Cell & Gene Therapy (ISCT) Annual Meeting, 2026**  
   *Authors:* Albeena Nisar, Ahmad Adeel, **Nurulamin Shaikh**, Siddhartha Pandya.
 
 ---
 
-## 🎓 Honors
+### 🎓 Academic Qualifications & Training
 
-* **CSIR-UGC NET (Life Sciences):** Qualified (CSIR-NET 2026 / June 2025).
+* **Master of Science (M.Sc.) in Biotechnology** (2021 – 2023) | *ISBM University* (64.87%)  
+  *Dissertation:* Microbial process optimization via One Factor at a Time (OFAT) methodology, achieving a 10% increase in cellulase yield from *Bacillus subtilis* (isolate C10).
+* **Bachelor of Science (B.Sc.) in Biotechnology** (2018 – 2021) | *VES College, Mumbai University*  
+  *Score:* **CGPA: 8.92 / 10.00 (Distinction)**
+* **CSIR-UGC NET (Life Sciences):** Qualified for **Junior Research Fellowship (JRF) & Ph.D.** with **96.89 Percentile** (CSIR-NET 2026 / June 2025).
 * **JGEEBILS:** Qualified Joint Graduate Entrance Examination for Biology and Interdisciplinary Life Sciences.
-* **Cleanroom / GMP Standards:** Completed institutional training in Biowaste Management and Green Room / Cleanroom Entry–Exit Protocols.
-* **AI/ML Training:** Hands-on Workshop on AI, Machine Learning & Generative AI in Oncology, Department of Digital and Computational Oncology, ACTREC, Tata Memorial Centre (2026).
+* **Specialized Training:**  
+  * Good Manufacturing Practice (GMP) & Green Room / Cleanroom Entry–Exit Protocols (ACTREC).  
+  * Hands-on Workshop on AI, Machine Learning & Generative AI in Oncology (ACTREC, 2026).
 
 ---
 
-## 📬 Get in Touch
+### 📊 GitHub Activity
 
-* **Email:** [nurulamin6191@gmail.com](mailto:nurulamin6191@gmail.com)
-* **LinkedIn:** [linkedin.com/in/nurulamin-shaikh](https://www.linkedin.com/in/nurulamin-shaikh/)
-* **GitHub:** [github.com/Nurulamin6191](https://github.com/Nurulamin6191)
-* **Lab:** Dr. Albeena Nisar's Laboratory, ACTREC, Tata Memorial Centre, Kharghar, Navi Mumbai, India
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nurulamin6191&show_icons=true&theme=tokyonight&hide_border=true" alt="Nurulamin's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurulamin6191&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</p>
 
 ---
-<div align="center">
-<sub>Rigorous science • Reproducible pipelines • Collaborative oncology</sub>
-</div>
+
+### 📬 Connect & Collaborate
+
+* 📧 **Email:** [nurulamin6191@gmail.com](mailto:nurulamin6191@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/nurulamin-shaikh](https://www.linkedin.com/in/nurulamin-shaikh/)
+* 💻 **GitHub:** [github.com/Nurulamin6191](https://github.com/Nurulamin6191)
+* 🏛️ **Affiliation:** Dr. Albeena Nisar's Laboratory, ACTREC, Tata Memorial Centre, Kharghar, Navi Mumbai, Maharashtra 410210, India
+
+<p align="center">
+  <sub><em>Translational Computational Oncology • Reproducible Multi-Omics Pipelines • Open Science</em></sub>
+</p>
